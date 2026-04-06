@@ -62,6 +62,10 @@ Every one of these failures was diagnosed, understood, and resolved systematical
 
 ## 🏗️ Architecture Overview
 
+![Instana Architecture Diagram](./assets/InstanaRobotShop.png)
+
+![Instana Implementation and walkthrough](./assets/InstanaRobotShopImplementationWalkthrough.pdf)
+
 ```
                            Internet
                                │
