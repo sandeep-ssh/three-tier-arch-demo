@@ -9,6 +9,8 @@
 [![Docker](https://img.shields.io/badge/Docker-Hub-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](./LICENSE)
 
+![Instana Architecture Diagram](./assets/InstanaRobotShop.png)
+
 ---
 
 ## 📌 TL;DR — What This Project Demonstrates
@@ -61,8 +63,6 @@ Every one of these failures was diagnosed, understood, and resolved systematical
 ---
 
 ## 🏗️ Architecture Overview
-
-![Instana Architecture Diagram](./assets/InstanaRobotShop.png)
 
 ![Instana Implementation and walkthrough](./assets/InstanaRobotShopImplementationWalkthrough.pdf)
 
